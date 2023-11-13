@@ -34,6 +34,8 @@ I do everything else 😇😇
 6. **DESCRIBE YOUR WORK** - this step is required for EVERY task
 7. Move the task to **Awaits Merge** column
 8. Once another collaborator reviews your work, they'll move the task to **Done** column 
+# Details
 
 
-
+Our project is a car-wiki which consists user-submitted articles. Registered users add articles that are presented on the page and can be seen by guests. The style of the car-wiki is designed using Tailwind CSS. There is full account management for registered users allowing them to change their password, username, avatar, and edit their entries.
+Administrators control and manage all users' entries to ensure that car-wiki articles are correct and up to date.
