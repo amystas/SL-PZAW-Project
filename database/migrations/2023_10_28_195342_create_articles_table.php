@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('content');
             $table->unsignedBigInteger('category_id')->index();
             $table->foreign('category_id')->references('id')->on('categories')->cascadeOnDelete();
-            $table->date('publish_date');
+            $table->timestamps();
         });
     }
 
